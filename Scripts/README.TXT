@@ -1,6 +1,3 @@
-# GGJ_23_TROR
-Source code for the 2023 Global Game Jam for the game "The Roots of Revenge"
-
 1. Using the MainMenu.cs script you can switch between the scenes by using a Unity Button
 2. Using CharacterBase.cs you can create very quickly different characters with their own personalized stats and lists of moves
 3. Character.cs is used to store the stats for every separate character and to manage their level and moves
